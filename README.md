@@ -12,5 +12,5 @@ Tableau – For data visualization and dashboard creation.
 Excel – For data cleaning and summary statistics.
 
 ## Dashboard
-![Image](https://github.com/renukadhule/Google_Play_Store_Analysis/blob/main/Snapshot/First.png)
+![Image](https://github.com/renukadhule/Google_Play_Store_Analysis/blob/main/Snapshot/First.png)<br><br>
 ![Image](https://github.com/renukadhule/Google_Play_Store_Analysis/blob/main/Snapshot/Second.png)

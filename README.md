@@ -3,3 +3,10 @@
 
 ## Project Overview
 This project focuses on analyzing Google Play Store data to gain insights into app performance, user ratings, reviews, and other key metrics. The goal is to identify trends, patterns, and factors that influence app success
+
+## Dataset used
+[get data here](https://www.kaggle.com/datasets/bhavikjikadara/google-play-store-applications)
+
+## Build With
+Microsoft Excel
+Visualization Tool : Tableau

@@ -8,5 +8,5 @@ This project focuses on analyzing Google Play Store data to gain insights into a
 [get the data here](https://www.kaggle.com/datasets/bhavikjikadara/google-play-store-applications)
 
 ## Build With
-Microsoft Excel <br>
-Visualization Tool : Tableau
+Tableau – For data visualization and dashboard creation.
+Excel – For data cleaning and summary statistics.

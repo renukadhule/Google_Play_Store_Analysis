@@ -22,9 +22,9 @@ Subway Surfers and social media apps are among the most popular.<br>
 Users generally give high ratings, meaning most apps are well-liked.<br>
 
 ## Recommendations
-Make Free Apps → Most users prefer free apps, so use ads or in-app purchases to earn money.<br>
-Focus on Popular Categories → Apps in Communication and Gaming get the most downloads, so they are good choices.<br>
-Keep Apps Updated → Regular updates help improve ratings and keep users happy.<br>
-Make Apps Small → Smaller apps are downloaded more, so avoid making them too heavy.<br>
-Target Everyone → Most apps are rated for Everyone, so creating apps for all ages can bring more users.<br>
-Listen to User Reviews → Fix common issues based on feedback to improve app quality.<br>
+**Make Free Apps →** Most users prefer free apps, so use ads or in-app purchases to earn money.<br>
+**Focus on Popular Categories →** Apps in Communication and Gaming get the most downloads, so they are good choices.<br>
+**Keep Apps Updated →** Regular updates help improve ratings and keep users happy.<br>
+**Make Apps Small →** Smaller apps are downloaded more, so avoid making them too heavy.<br>
+**Target Everyone →** Most apps are rated for Everyone, so creating apps for all ages can bring more users.<br>
+**Listen to User Reviews →** Fix common issues based on feedback to improve app quality.<br>

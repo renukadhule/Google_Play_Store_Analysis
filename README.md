@@ -1,4 +1,4 @@
-# Google_Play_Store_Analysis
+# Google Play Store Analysis
 <img src = "https://www.sammobile.com/wp-content/uploads/2023/12/Google-Play-Store.jpg" height= "320" width = "1150">
 
 ## Project Overview

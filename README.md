@@ -14,3 +14,9 @@ Excel – For data cleaning and summary statistics.
 ## Dashboard
 ![Image](https://github.com/renukadhule/Google_Play_Store_Analysis/blob/main/Snapshot/First.png)<br><br>
 ![Image](https://github.com/renukadhule/Google_Play_Store_Analysis/blob/main/Snapshot/Second.png)
+
+## Key Insights
+Most apps are free, so ads and in-app purchases are important for revenue.<br>
+Communication and gaming apps get the most downloads.<br>
+Subway Surfers and social media apps are among the most popular.<br>
+Users generally give high ratings, meaning most apps are well-liked.<br>
